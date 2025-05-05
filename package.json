@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "freeCodeCamp",
+	"author": "Gonçalo Trindade",
+	"description": "A boilerplate for a freeCodeCamp project.",
+	"keywords": ["freecodecamp", "boilerplate", "npm"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.21.2"
 	},
 	"main": "server.js",
 	"scripts": {
